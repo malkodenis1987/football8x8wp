@@ -3,4 +3,6 @@ node_modules
 src
 .idea/
 dev/
+wp-content/themes/football8x8/node_modules/
+wp-content/themes/football8x8/bower_components/
 wp-config.php
